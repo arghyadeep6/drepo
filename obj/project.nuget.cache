@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CgIZuFy+jFg5RXZC1VOIr8+yfjvUFsnNM2C8o/w6gCQaQNZ18mO2r94BEWSWYDfas+Sfnv4nss7sy+ypYrSDig==",
+  "success": true,
+  "projectFilePath": "E:\\Practice Projects\\dockerex\\dockerex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arghyadeep\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
